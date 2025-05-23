@@ -45,3 +45,7 @@ output/
 
 # vim stuff
 *.swp
+
+# pixi environments
+.pixi
+*.egg-info
